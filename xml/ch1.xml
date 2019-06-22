@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ch1_introduction">
+<title>Welcome to Abstract Algebra</title>
+
+<introduction>
+<title>Goals for Chapter 1</title>	
+<p>Let's get started.</p>
+</introduction>
+
+<section xml:id="definitions">
+<title>The naming of things</title>
+<p>This is a short sentence.</p>
+</section>
+
+</chapter>
